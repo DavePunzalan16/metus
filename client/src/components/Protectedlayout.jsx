@@ -5,7 +5,7 @@ import Footer from './Footer'
 
 const Protectedlayout = () => {
   return (
-    <div className="h-screen overflow-y-scroll bg-slate-50 text-slate-900 fle flex-col font-sans bg-[url('layout_bg2.png')] bg-cover bg-center bg-no-repeat">
+    <div className="h-screen overflow-y-scroll bg-slate-50 text-slate-900 fle flex-col font-sans bg-[url('layout_bgpurp.png')] bg-cover bg-center bg-no-repeat">
       <Navbar />
       <Outlet />
       <Footer />
