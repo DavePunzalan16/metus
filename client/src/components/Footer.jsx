@@ -2,7 +2,9 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div>Footer</div>
+    <footer className='w-full max-w-305 mx-auto bg-whte/10 backdrop-blur xl:rounded-t-xl px-6 py-4 text-center'>
+      <p className='text-xs font-medium text-white'>© 2026 MetUs. All rights reserved by DMP and TechnoPixel.</p>
+    </footer>
   )
 }
 
